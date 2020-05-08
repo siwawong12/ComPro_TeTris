@@ -2,6 +2,7 @@
 # Project Computer Programing
 โครงงานนี้จัดทำขึ้นในรายวิชา Computer Programing โดยการใช้ภาษา C ในการพัฒนาโปรแกรมเกมส์ Tetris และออกแบบกราฟฟิกตัวเกมขึ้นมาใหม่่
 ไฟล์เกม อยู่ใน project2/project2.rar และ กดรันตัวเกมที่ x64/debug/project2.exe
+link youtube:
 
 <img  src="IMG/337600-200.png">
 
