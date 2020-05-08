@@ -1,1 +1,2 @@
-# ComPro_TeTris
+# ComPro_TeTrisห
+กูว่าแหละ กุถามเขา เขาบอกว่าใช่อะ
