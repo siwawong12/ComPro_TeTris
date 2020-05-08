@@ -1,2 +1,1 @@
-# ComPro_TeTrisห
-กูว่าแหละ กุถามเขา เขาบอกว่าใช่อะ
+<p><a target="_blank" rel="noopener noreferrer" href="/siwawong12/ComPro_TeTris/blob/master/IMG/Tetis.jpg"><img src="/siwawong12/ComPro_TeTris/raw/master/IMG/Tetis.jgp" alt="" style="max-width:100%;"></a></p>
